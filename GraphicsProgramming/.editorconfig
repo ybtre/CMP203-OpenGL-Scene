@@ -1,0 +1,15 @@
+
+[*]
+
+# ReSharper properties
+resharper_anonymous_method_declaration_braces=end_of_line
+resharper_case_block_braces=end_of_line
+resharper_expression_braces=outside_and_inside
+resharper_indent_access_specifiers_from_class=true
+resharper_indent_switch_labels=true
+resharper_indent_wrapped_function_names=true
+resharper_invocable_declaration_braces=end_of_line
+resharper_linkage_specification_indentation=all
+resharper_namespace_declaration_braces=end_of_line
+resharper_other_braces=end_of_line
+resharper_type_declaration_braces=end_of_line
