@@ -1,6 +1,8 @@
 With this course we got introduced to OpenGL 2.1, or more specifically the GLUT frameowrk. The goal of this course and project was to design and develop a 3D graphics application 
 and scene that exhibits key techniques in graphics programming using OpenGL. 
 
+[![Scene Demo](opengl.png)]
+
 ###### The code I wrote is in the Scene.h and Scene.cpp files
   
 The techniques I have successfuly implemented are:
